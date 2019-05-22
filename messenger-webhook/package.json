@@ -1,0 +1,31 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "live chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "tester"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comeoninc/messenger-platform-samples.git"
+  },
+  "keywords": [
+    "comeoninc",
+    "comeonstore",
+    "messenger",
+    "chat"
+  ],
+  "author": "comeoninc.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comeoninc/messenger-platform-samples/issues"
+  },
+  "homepage": "https://github.com/comeoninc/messenger-platform-samples#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "index.js": "0.0.3",
+    "touch": "^3.1.0"
+  }
+}
